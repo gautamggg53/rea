@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.5.0](https://github.com/morluto/rea/compare/rea-agents-6.4.0...rea-agents-6.5.0) (2026-10-11)
+
+
+### Performance Improvements
+
+* **mcp:** keep Playwright and type-only imports off MCP startup ([#1691](https://github.com/morluto/rea/issues/1691)) ([0ecf3f2](https://github.com/morluto/rea/commit/0ecf3f2438ec96a6b543942869808018e8d84452))
+
 ## [6.4.0](https://github.com/morluto/rea/compare/rea-agents-6.3.0...rea-agents-6.4.0) (2026-10-11)
 
 ### Highlights
